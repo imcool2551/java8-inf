@@ -1,4 +1,4 @@
-package hello.java8;
+package hello.java8.functionalinterface;
 
 public class Greeting {
 
